@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+# exec  ~/.screenlayout/autoxrandr.sh &
+# exec polybar &
+# exec feh --randomize --bg-fill $HOME/.wallpapers/*.png
