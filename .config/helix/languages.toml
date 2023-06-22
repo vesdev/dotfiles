@@ -1,0 +1,6 @@
+[[language]]
+name = "rust"
+
+[rust.config]
+checkOnSave = { command = "clippy" }
+
