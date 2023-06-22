@@ -5,5 +5,5 @@
     margin: 8,
     default_border_color: "#1C1E26",
     floating_border_color: "#E95378",
-    focused_border_color: "#353747",
+    focused_border_color: "#e95378",
 )
